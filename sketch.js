@@ -13,7 +13,7 @@ function preload()
   gym1 = loadAnimation("gym11.png", "gym12.png");
   iss = loadImage("iss.png");
   //there was a comma in move1.png
-  move = loadAnimation("move.png","move1.png");
+  move = loadAnimation("move.png"," move1.png");
   sleep = loadImage("sleep.png");
 
 }
